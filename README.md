@@ -234,6 +234,6 @@ as an alterntive to ngrok
 
 **YouTube**
 
-<a href="https://odysee.com/@thewhiteh4t:2/seeker_v126_demo:e">
-  <img src="https://thumbnails.odycdn.com/optimize/s:1024:768/quality:85/plain/https://thumbs.odycdn.com/5ce9ed06e0ce8a995987dba0949dbc9a.webp">
+<a href="https://youtu.be/zEvZaBf6ZaQ?si=O3HOw65KL-SZAkjz">
+  <img src="https://envs.sh/d83.jpg">
 </a>
